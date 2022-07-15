@@ -1,0 +1,24 @@
+.article {
+    display: flex;
+    flex-direction: column;
+    /* border-bottom: 1px dotted black; */
+    width: 50%;
+    /* align-items: center;
+    justify-content: center; */
+}
+p {
+    font-size: 13pt;
+}
+#plus, #minus{
+    font-size:  2rem;
+    justify-content: flex-end;
+}
+#minus {
+    color: red;
+    
+}
+#proba {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}

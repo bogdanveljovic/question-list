@@ -1,4 +1,4 @@
-import Questions from "./components/Questions";
+import questions from './data/Questions';
 import QuestionsList from './components/QuestionsList';
 function App() {
   return (
